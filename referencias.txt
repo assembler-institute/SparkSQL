@@ -1,0 +1,21 @@
+###########################
+##  Spark SQL Referencias
+###########################
+
+# Tutorial sobre Spark SQL
+https://www.tutorialspoint.com/spark_sql/spark_sql_introduction.htm
+
+# Documentación oficial sobre Spark SQL
+https://spark.apache.org/docs/latest/sql-programming-guide.html
+
+# Tutorial sobre Spark SQL
+https://www.edureka.co/blog/spark-sql-tutorial/
+
+# Video sobre Spark SQL (desde terminal)
+https://www.youtube.com/watch?v=agqn_-KN4hU
+
+# Video sobre Spark SQL desde Databricks
+https://www.youtube.com/watch?v=VPgbN5_r1E4
+
+# Extra: Video sobre Delta Lake.
+https://www.youtube.com/watch?v=BMO90DI82Dc
