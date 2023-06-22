@@ -8,7 +8,7 @@ This repository contains a collection of Spark SQL notebooks focusing on various
 - SparkSQL_Ex1.html: This notebook is for practicing the acquired knowledge with some tasks.
 - SparkSQL_Ex2.html: This notebook is for practicing the acquired knowledge with some tasks.
 - SparkSQL_Ex3.html: This notebook is for practicing the acquired knowledge with some tasks.
-
+- referencias.txt: This text file contains references and resources related to Spark SQL.
 
 ### Files
 
